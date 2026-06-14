@@ -125,6 +125,11 @@
               <FileType>1</FileType>
               <FilePath>..\Application\app\debug.c</FilePath>
             </File>
+            <File>
+              <FileName>upgrade.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Application\app\upgrade.c</FilePath>
+            </File>
           </Files>
         </Group>
         <!-- Hardware BSP Group -->
