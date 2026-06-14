@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectOpt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_optx.xsd">
+
+  <SchemaVersion>2.1</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <TargetOption>
+    <TargetCommonOption>
+      <Device>GD32A50x</Device>
+      <Vendor>GigaDevice Semiconductor</Vendor>
+      <PackID>GigaDevice.GD32A5xx_DFP.1.0.0</PackID>
+    </TargetCommonOption>
+    <DebugOption>
+      <Adapter>STLink</Adapter>
+    </DebugOption>
+  </TargetOption>
+
+</ProjectOpt>
